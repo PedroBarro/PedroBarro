@@ -3,7 +3,6 @@
 - 🔭 Não trabalho com nada
 - 🌱 estou aprendendo sobre progamação
 - 🤔 Não conheço quase nada de progamação
-- 😄 Pronouns: ele/dele
 -->
 <div align="center">
   <a href="https://github.com/rafaballerini">
